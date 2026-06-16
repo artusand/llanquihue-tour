@@ -8,14 +8,17 @@ Estructura del proyecto
 
 
 *src
+
 	*data
 		-GestorDatos.java
+		
 	*model
 		-Tour.java
+		
 	*ui
 		-Main.java
+		
 *Libraries
-
 
 
 Funcionalidad
