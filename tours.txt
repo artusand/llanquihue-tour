@@ -1,0 +1,5 @@
+Laguna Tronador;Region de los lagos;20000
+Crater rojo;Region de los lagos;25000
+Acantilados quintay sur; Region de Valparaiso;27000
+Lago las rocas;Region de los lagos;30000
+Travesia de duhato a chepu;Region de los lagos;35000
